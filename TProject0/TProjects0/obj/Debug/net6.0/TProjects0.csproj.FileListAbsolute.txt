@@ -1,0 +1,12 @@
+C:\Users\srkri\source\repos\TProject0\TProjects0\bin\Debug\net6.0\TProjects0.deps.json
+C:\Users\srkri\source\repos\TProject0\TProjects0\bin\Debug\net6.0\TProjects0.dll
+C:\Users\srkri\source\repos\TProject0\TProjects0\bin\Debug\net6.0\TProjects0.pdb
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.csproj.AssemblyReference.cache
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.AssemblyInfoInputs.cache
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.AssemblyInfo.cs
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.csproj.CoreCompileInputs.cache
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.dll
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\refint\TProjects0.dll
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\TProjects0.pdb
+C:\Users\srkri\source\repos\TProject0\TProjects0\obj\Debug\net6.0\ref\TProjects0.dll
