@@ -1,5 +1,0 @@
-C:\Users\srkri\source\repos\TProject0\UI-TConsole\obj\Debug\net6.0\UI-TConsole.csproj.AssemblyReference.cache
-C:\Users\srkri\source\repos\TProject0\UI-TConsole\obj\Debug\net6.0\UI-TConsole.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\srkri\source\repos\TProject0\UI-TConsole\obj\Debug\net6.0\UI-TConsole.AssemblyInfoInputs.cache
-C:\Users\srkri\source\repos\TProject0\UI-TConsole\obj\Debug\net6.0\UI-TConsole.AssemblyInfo.cs
-C:\Users\srkri\source\repos\TProject0\UI-TConsole\obj\Debug\net6.0\UI-TConsole.csproj.CoreCompileInputs.cache

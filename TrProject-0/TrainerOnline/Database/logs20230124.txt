@@ -1,0 +1,95 @@
+2023-01-24 00:01:10.256 +05:30 [INF] new user entered
+2023-01-24 00:44:02.582 +05:30 [INF] new user entered
+2023-01-24 00:47:20.070 +05:30 [INF] new user entered
+2023-01-24 08:50:48.989 +05:30 [INF] new user entered
+2023-01-24 08:54:06.073 +05:30 [INF] Display Menu the Trainer
+2023-01-24 08:54:10.906 +05:30 [INF] Display Menu the Trainer
+2023-01-24 08:54:13.726 +05:30 [INF] Display signup to the Trainer
+2023-01-24 08:54:27.486 +05:30 [ERR] new trainer with id: 0 entered inncorrect sign up details
+2023-01-24 08:54:27.486 +05:30 [INF] Display signup to the Trainer
+2023-01-24 08:54:30.565 +05:30 [INF] Display signup to the Trainer
+2023-01-24 08:54:36.621 +05:30 [INF] Display signup to the Trainer
+2023-01-24 08:54:39.399 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 08:54:51.685 +05:30 [INF] trainer with id: 0 was verified
+2023-01-24 08:54:51.685 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 08:54:55.675 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 08:55:08.185 +05:30 [INF] Display add skills page to the Trainer
+2023-01-24 08:55:15.154 +05:30 [INF] Display add skills page to the Trainer
+2023-01-24 08:55:17.685 +05:30 [INF] trainer with id: 2345 added new skill detail
+2023-01-24 08:55:17.685 +05:30 [INF] Display add skills page to the Trainer
+2023-01-24 08:55:21.975 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 08:55:43.968 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:55:51.797 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:55:58.288 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:56:04.763 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:56:13.915 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:56:21.215 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:56:23.893 +05:30 [INF] trainer with id: 2345 add a new education detail
+2023-01-24 08:56:23.894 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 08:56:32.363 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 08:56:36.521 +05:30 [INF] Display update skills page to the Trainer
+2023-01-24 08:56:52.608 +05:30 [ERR] trainer with id: 2345 updated skill detail
+2023-01-24 08:56:52.608 +05:30 [INF] Display update skills page to the Trainer
+2023-01-24 08:56:56.363 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 08:57:00.857 +05:30 [INF] Display delete skill page to the Trainer
+2023-01-24 08:57:09.985 +05:30 [INF] Display delete skill page to the Trainer
+2023-01-24 09:15:43.989 +05:30 [INF] new user entered
+2023-01-24 09:15:45.099 +05:30 [INF] Display Menu the Trainer
+2023-01-24 09:15:49.692 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:16:02.271 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:16:13.445 +05:30 [INF] new trainer with id: 0 signed up successfully
+2023-01-24 09:16:13.445 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:16:26.955 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:16:34.696 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:16:37.486 +05:30 [ERR] trainer with email:  entered inncorrect login details
+2023-01-24 09:16:48.419 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:16:51.524 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:16:55.055 +05:30 [INF] Display Menu the Trainer
+2023-01-24 09:16:57.668 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:17:15.805 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:17:17.356 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:17:24.496 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:17:36.424 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:17:46.799 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:17:49.086 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:17:56.840 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:17:59.497 +05:30 [ERR] trainer with email:  entered inncorrect login details
+2023-01-24 09:18:06.414 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:18:16.405 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:18:20.115 +05:30 [ERR] trainer with email: siv@gmail.com entered inncorrect login details
+2023-01-24 09:18:28.160 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:18:34.018 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:18:45.168 +05:30 [ERR] new trainer with id: 0 entered inncorrect sign up details
+2023-01-24 09:18:45.168 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:18:51.744 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:18:59.123 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:19:09.949 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:19:13.536 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:19:25.081 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:19:35.380 +05:30 [INF] trainer with id: 0 was verified
+2023-01-24 09:19:35.381 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:19:38.115 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:19:43.773 +05:30 [INF] Display add skills page to the Trainer
+2023-01-24 09:19:49.870 +05:30 [INF] Display add skills page to the Trainer
+2023-01-24 09:19:51.984 +05:30 [INF] trainer with id: 4567 added new skill detail
+2023-01-24 09:19:51.985 +05:30 [INF] Display add skills page to the Trainer
+2023-01-24 09:19:54.446 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:20:00.876 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:07.478 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:11.667 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:17.572 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:24.017 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:33.575 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:36.923 +05:30 [INF] trainer with id: 4567 add a new education detail
+2023-01-24 09:20:36.924 +05:30 [INF] Display add education details page to the Trainer
+2023-01-24 09:20:39.956 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:20:49.778 +05:30 [INF] Display update skills page to the Trainer
+2023-01-24 09:21:08.218 +05:30 [ERR] trainer with id: 4567 updated skill detail
+2023-01-24 09:21:08.218 +05:30 [INF] Display update skills page to the Trainer
+2023-01-24 09:21:13.509 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:21:18.090 +05:30 [INF] Display delete skill page to the Trainer
+2023-01-24 09:21:24.819 +05:30 [INF] Display delete skill page to the Trainer
+2023-01-24 09:21:27.570 +05:30 [INF] trainer with id: 4567 deleted one skill detail
+2023-01-24 09:21:27.570 +05:30 [INF] Display delete skill page to the Trainer
+2023-01-24 09:21:38.776 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:29:29.420 +05:30 [INF] Display user id page to the Trainer

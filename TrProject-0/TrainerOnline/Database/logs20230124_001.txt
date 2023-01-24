@@ -1,0 +1,14 @@
+2023-01-24 09:47:10.271 +05:30 [INF] new user entered
+2023-01-24 09:47:13.468 +05:30 [INF] Display Menu the Trainer
+2023-01-24 09:47:18.515 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:47:44.290 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:47:52.869 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:47:55.779 +05:30 [INF] trainer with email: siv@gmail.com logged in successfully
+2023-01-24 09:47:55.779 +05:30 [INF] Display user id page to the Trainer
+2023-01-24 09:48:12.687 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:48:36.920 +05:30 [INF] new trainer with id: 0 signed up successfully
+2023-01-24 09:48:36.921 +05:30 [INF] Display login page to the Trainer
+2023-01-24 09:48:52.910 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:49:01.130 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:49:08.779 +05:30 [INF] Display signup to the Trainer
+2023-01-24 09:49:15.159 +05:30 [INF] Display user id page to the Trainer
