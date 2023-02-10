@@ -45,7 +45,7 @@ namespace BusinessLogic
 
                 SivaTrDetail = repo.Update(SivaTrDetail); 
             }
-            return Mapper.MapDetail(EF.SivaTrDetail);
+            return Mapper.MapDetail(EF.Entities.SivaTrDetail);
         }
 
     }

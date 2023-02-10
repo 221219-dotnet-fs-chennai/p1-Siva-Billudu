@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\Modules.csproj",
+      "projectUniqueName": "C:\\Revature\\p1-Siva-Billudu\\TrProject1\\Modules\\Modules.csproj",
       "projectName": "Modules",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\Modules.csproj",
+      "projectPath": "C:\\Revature\\p1-Siva-Billudu\\TrProject1\\Modules\\Modules.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\obj\\",
+      "outputPath": "C:\\Revature\\p1-Siva-Billudu\\TrProject1\\Modules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
