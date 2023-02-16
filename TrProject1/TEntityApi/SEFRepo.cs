@@ -35,9 +35,9 @@ namespace TEntityApi
             return search;
         }
 
-        public SivaTrSkill Update( SivaTrSkill TrSkill)
+        public Entities.SivaTrSkill Update(Entities.SivaTrSkill TrSkill)
         {
-            context.SivaTrSkills.Update( TrSkill);
+            context.SivaTrSkills.Update(TrSkill);
             context.SaveChanges();
             return TrSkill;
         }

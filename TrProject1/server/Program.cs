@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Modules;
 using TEntityApi.Entities;
 using TEntityApi;
+using server.FilterModels;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,7 +32,7 @@ builder.Services.AddScoped<ICLogic, CLogic>();
 builder.Services.AddScoped<Tvalidation, Tvalidation>();
 
 
-
+builder.Services.AddControllers(options => options.Filters.Add(new ActionFilter()));
 
 
 

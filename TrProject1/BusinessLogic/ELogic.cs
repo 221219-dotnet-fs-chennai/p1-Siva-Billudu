@@ -13,15 +13,16 @@ namespace BusinessLogic
 {
     public class ELogic : IELogic
     {
+        Validation val=new Validation();
         IERepo<EF.Entities.SivaTrEducation> erepo;
         public ELogic() {
             erepo = new EF.TEFRepo();
         }
         public SivaTrEducation AddTrEducation(TrEducation te)
         {
-            te.Cgpa = Validation.IsValidCGpa(te.Cgpa) ? te.Cgpa : throw new Exception("ivalid cgpa");
-            te.Startdate = Validation.IsValidYear(te.Startdate) ? te.Startdate : throw new Exception("ivalid start date");
-            te.PassoutDate = Validation.IsValidYear(te.PassoutDate) ? te.PassoutDate : throw new Exception("invalid passout date");
+             te.Cgpa = val.IsValidCGpa(te.Cgpa) ? te.Cgpa : throw new Exception("ivalid cgpa");
+            te.Startdate = val.IsValidYear(te.Startdate) ? te.Startdate : throw new Exception("ivalid start date");
+            te.PassoutDate = val.IsValidYear(te.PassoutDate) ? te.PassoutDate : throw new Exception("invalid passout date");
             return erepo.AddEducation(Mapper.MapEducation(te));
         }
 

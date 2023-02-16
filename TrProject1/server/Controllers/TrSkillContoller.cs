@@ -6,11 +6,13 @@ using Microsoft.Extensions.Caching.Memory;
 using Modules;
 using BusinessLogic;
 using Microsoft.IdentityModel.Tokens;
+using server.FilterModels;
 
 namespace server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ActionFilter]
 
     public class TrSkillContoller : Controller
     {
@@ -54,17 +56,17 @@ namespace server.Controllers
             }
         }
         [HttpPut("UpdateSkill")]
-        public ActionResult Update([FromRoute] int Sid, [FromBody] Modules.TrSkill tr)
+        public ActionResult Update([FromHeader] int Sid, [FromBody] Modules.TrSkill tr)
         {
             try
             {
                 if (Sid != 0)
                 {
-                    _slogic.UpdateTrSkill(Sid, tr);
-                    return Ok(tr);
+            _slogic.UpdateTrSkill(Sid, tr);
+            return Ok(tr);
                 }
                 else
-                    return BadRequest($"something wrong with {tr.Skill} input, please try again!");
+                    return BadRequest($"something wrong with {tr.Sid} input, please try again!");
             }
             catch (SqlException ex)
             {

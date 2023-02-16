@@ -1,10 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer.Migrations.Internal;
 using Modules;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TEntityApi;
 using TEntityApi.Entities;
 using EF = TEntityApi;
 
@@ -13,6 +15,7 @@ namespace BusinessLogic
 {
     public  class SLogic : ISkillLogic
     {
+        Validation val = new Validation();
         ISRepo<EF.Entities.SivaTrSkill> srepo;
         public SLogic() 
         {
@@ -21,7 +24,7 @@ namespace BusinessLogic
 
         public SivaTrSkill AddTrSkill(TrSkill ts)
         {
-            ts.Skill = Validation.IsValidSkillName(ts.Skill) ? ts.Skill : throw new Exception("invalid skill");
+             ts.Skill = val.IsValidSkillName(ts.Skill) ? ts.Skill : throw new Exception("invalid skill");
             return srepo.AddSkill(Mapper.MapSkill(ts));
         }
 

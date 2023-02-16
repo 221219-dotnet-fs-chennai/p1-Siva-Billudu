@@ -5,10 +5,14 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Caching.Memory;
 using Modules;
 using BusinessLogic;
+using Microsoft.AspNetCore.Mvc.Filters;
+using server.FilterModels;
+
 namespace server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ActionFilter]
     public class TrainerController : Controller
     {
         Tvalidation _v;

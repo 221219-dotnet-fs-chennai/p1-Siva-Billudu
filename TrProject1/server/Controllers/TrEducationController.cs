@@ -5,12 +5,14 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Caching.Memory;
 using Modules;
 using BusinessLogic;
+using server.FilterModels;
 
 
 namespace server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ActionFilter]
 
     public class TrEducationController : Controller
     {
@@ -52,7 +54,7 @@ namespace server.Controllers
             }
         }
         [HttpPut("UpdateEducation")]
-        public ActionResult Update([FromRoute] int TrEduid, [FromBody] Modules.TrEducation te)
+        public ActionResult Update([FromHeader] int TrEduid, [FromBody] Modules.TrEducation te)
         {
             try
             {

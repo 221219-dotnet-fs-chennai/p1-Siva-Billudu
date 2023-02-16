@@ -5,11 +5,13 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Caching.Memory;
 using Modules;
 using BusinessLogic;
+using server.FilterModels;
 
 namespace server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ActionFilter]
 
     public class TrContactController : Controller
     {
@@ -53,7 +55,7 @@ namespace server.Controllers
        
       
         [HttpPut("UpdateContact")]
-        public ActionResult Update([FromRoute] int Cid, [FromBody] Modules.TrContact tr)
+        public ActionResult Update([FromHeader] int Cid, [FromBody] Modules.TrContact tr)
         {
             try
             {

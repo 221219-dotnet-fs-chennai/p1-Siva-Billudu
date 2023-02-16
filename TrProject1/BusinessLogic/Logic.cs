@@ -14,6 +14,7 @@ namespace BusinessLogic
 {
     public class Logic : ILogic
     {
+        Validation val=new Validation();
         IRepo<EF.Entities.SivaTrDetail> repo;
         public Logic()
         {
@@ -22,11 +23,11 @@ namespace BusinessLogic
         }
         public TrDetails AddTrDetails(TrDetails td)
         {
-            td.Email = Validation.IsValidEmail(td.Email) ? td.Email : throw new ("Invalid email format");
-            td.Password = Validation.IsValidPassword(td.Password) ? td.Password : throw new ("enter Password of length 8-20 with at lest 1 Uppercase Letter,1 number");
-            td.Phone = Validation.IsValidPhone(td.Phone) ? td.Phone : throw new ("Enter Phone with 10 digits");
-            td.Gender = Validation.IsValidGender(td.Gender) ? td.Gender : throw new ("Enter Male/Female");
-            td.Website = Validation.IsValidWebsite(td.Website) ? td.Website : throw new ("Invalid website format");
+            td.Email = val.IsValidEmail(td.Email) ? td.Email : throw new ("Invalid email format");
+            td.Password = val.IsValidPassword(td.Password) ? td.Password : throw new ("enter Password of length 8-20 with at lest 1 Uppercase Letter,1 number");
+            td.Phone = val.IsValidPhone(td.Phone) ? td.Phone : throw new ("Enter Phone with 10 digits");
+            td.Gender = val.IsValidGender(td.Gender) ? td.Gender : throw new ("Enter Male/Female");
+            td.Website = val.IsValidWebsite(td.Website) ? td.Website : throw new ("Invalid website format");
           
 
             return Mapper.MapDetail(repo.Add(Mapper.MapDetail(td)));

@@ -5,12 +5,14 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Caching.Memory;
 using Modules;
 using BusinessLogic;
+using server.FilterModels;
 
 
 namespace server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ActionFilter]
     public class TrainerDetailController : ControllerBase
     {
         ILogic _logic;
@@ -41,44 +43,7 @@ namespace server.Controllers
                 return BadRequest(ex.Message);
             }
         }
-     /*   [HttpPost("signUp")]
-        public ActionResult Post(Modules.TrDetails tr)
-        {
-            try
-            {
-                if (_v.isEmailPresent(tr.Email) == false)
-                {
-                    return Ok(_logic.AddTrDetails(tr));
-                }
-                else
-                {
-                    return BadRequest("Email already exists,please sign in");
-                }
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message + ", Please try again");
-            }
-        }
-        [HttpGet("signIn")]
-        public ActionResult SignIn(string Email, string Password)
-        {
-            if (_v.isEmailPresent(Email) == true)
-            {
-                if (_v.signIn(Email, Password))
-                {
-                    return Ok("Successful login");
-                }
-                else
-                {
-                    return BadRequest("Wrong passowrd");
-                }
-            }
-            else
-            {
-                return BadRequest("Email does not exists,please sign up");
-            }
-        }*/
+    
 
         [HttpPost("AddTrDetails")]
         public IActionResult Add([FromBody] Modules.TrDetails tr)
@@ -95,7 +60,7 @@ namespace server.Controllers
         }
 
         [HttpPut("UpdateTrainer")]
-        public ActionResult Update([FromRoute] int TrId, [FromBody] Modules.TrDetails tr)
+        public ActionResult Update([FromHeader] int TrId, [FromBody] Modules.TrDetails tr)
         {
             try
             {

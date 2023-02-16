@@ -5,11 +5,13 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Caching.Memory;
 using Modules;
 using BusinessLogic;
+using server.FilterModels;
 
 namespace server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ActionFilter]
 
     public class TrCompanyController : Controller
     {
@@ -58,7 +60,7 @@ namespace server.Controllers
         {
             try
             {
-                if (Trcompanyid != 0)
+                if (tr.Trcompanyid != 0)
                 {
                     _clogic.UpdateTrCompany(Trcompanyid, tr);
                     return Ok(tr);

@@ -14,6 +14,7 @@ namespace BusinessLogic
 
     public class CLogic:ICLogic
     {
+        Validation val=new Validation();
         ICRepo<EF.Entities.SivaTrcompany> mrepo;
         public CLogic()
         {
@@ -22,8 +23,8 @@ namespace BusinessLogic
 
         public SivaTrcompany AddTrCompany(TrCompany cc)
         {
-            cc.Startyear = Validation.IsValidYear(cc.Startyear) ? cc.Startyear : throw new Exception("invalid start year");
-            cc.Endyear = Validation.IsValidYear(cc.Endyear) ? cc.Endyear : throw new Exception("invalid end year");
+             cc.Startyear = val.IsValidYear(cc.Startyear) ? cc.Startyear : throw new Exception("invalid start year");
+            cc.Endyear = val.IsValidYear(cc.Endyear) ? cc.Endyear : throw new Exception("invalid end year");
             return mrepo.AddCompany(Mapper.MapCompany(cc));
         }
 
@@ -45,11 +46,11 @@ namespace BusinessLogic
         public TrCompany UpdateTrCompany(int Trcompanyid, TrCompany cm)
         {
             var u =( from mm in mrepo.GetAllSivaCompany()
-                     where mm.Trcompanyid == Trcompanyid
+                     where mm.Trcompanyid == cm.Trcompanyid
                      select mm).FirstOrDefault();
             if( u != null)
             {
-                u.Cid= cm.Cid;
+                u.Cid = cm.Cid;
                 u.Ctype= cm.Ctype;
                 u.Cname= cm.Cname;
                 u.Startyear= cm.Startyear;
