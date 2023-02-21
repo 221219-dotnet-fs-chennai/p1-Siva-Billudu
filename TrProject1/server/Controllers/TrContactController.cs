@@ -54,8 +54,8 @@ namespace server.Controllers
         }
        
       
-        [HttpPut("UpdateContact")]
-        public ActionResult Update([FromHeader] int Cid, [FromBody] Modules.TrContact tr)
+        [HttpPut("UpdateContact/{Cid}")]
+        public ActionResult Update( int Cid, [FromBody] Modules.TrContact tr)
         {
             try
             {

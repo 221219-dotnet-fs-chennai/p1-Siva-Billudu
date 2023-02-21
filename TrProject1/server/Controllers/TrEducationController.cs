@@ -53,8 +53,8 @@ namespace server.Controllers
                 return BadRequest(ex.Message);
             }
         }
-        [HttpPut("UpdateEducation")]
-        public ActionResult Update([FromHeader] int TrEduid, [FromBody] Modules.TrEducation te)
+        [HttpPut("UpdateEducation/{TrEduid}")]
+        public ActionResult Update( int TrEduid, [FromBody] Modules.TrEducation te)
         {
             try
             {

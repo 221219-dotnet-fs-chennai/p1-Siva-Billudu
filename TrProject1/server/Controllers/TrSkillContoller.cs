@@ -55,8 +55,8 @@ namespace server.Controllers
                 return BadRequest(ex.Message);
             }
         }
-        [HttpPut("UpdateSkill")]
-        public ActionResult Update([FromHeader] int Sid, [FromBody] Modules.TrSkill tr)
+        [HttpPut("UpdateSkill/{Sid}")]
+        public ActionResult Update( int Sid, [FromBody] Modules.TrSkill tr)
         {
             try
             {

@@ -55,8 +55,8 @@ namespace server.Controllers
             }
         }
 
-        [HttpPut("UpdateCompany")]
-        public ActionResult Update([FromRoute] int Trcompanyid, [FromBody] Modules.TrCompany tr)
+        [HttpPut("UpdateCompany/{Trcompanyid}")]
+        public ActionResult Update( int Trcompanyid, [FromBody] Modules.TrCompany tr)
         {
             try
             {

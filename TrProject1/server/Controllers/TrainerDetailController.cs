@@ -46,7 +46,7 @@ namespace server.Controllers
     
 
         [HttpPost("AddTrDetails")]
-        public IActionResult Add([FromBody] Modules.TrDetails tr)
+        public IActionResult Add( Modules.TrDetails tr)
         {
             try
             {
@@ -59,8 +59,8 @@ namespace server.Controllers
             }
         }
 
-        [HttpPut("UpdateTrainer")]
-        public ActionResult Update([FromHeader] int TrId, [FromBody] Modules.TrDetails tr)
+        [HttpPut("UpdateTrainer/{TrId}")]
+        public ActionResult Update(int TrId,[FromBody] Modules.TrDetails tr)
         {
             try
             {

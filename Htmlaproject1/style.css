@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+body{
+    font-family: 'Roboto',sans-serif;
+    background: url('./background.png');
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+nav{
+    margin-top: 5rem;
+    margin-bottom: 7.5rem;
+}
+
+nav .container  {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 4rem;
+    color: blue;
+    border-bottom: 3px solid transparent;
+    border-top: 3px solid transparent;
+    transition: border 0.5s;
+    padding: 0.25rem;
+
+}
+nav .container  a:hover{
+    border-bottom: 3px solid #b771ee ;
+    border-top:3px solid #b771ee ;
+}
+/* showcase*/
+header .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.showcase-image{
+    margin-left: 15rem;
+}
+
+.showcase-text h1{
+    font-size: 7.2rem;
+    font-weight: 400;
+    color: #b771ee;
+    margin-bottom: 3.2rem;
+}
+
+.showcase-text h2 {
+    font-size: 4.8rem;
+    font-weight: 400;
+    color: #444;
+    margin-bottom: 4rem;
+    line-height: 10px;
+}
+
+.showcase-text p{
+    font-size: 1.6rem;
+    line-height: 225%;
+    margin-bottom: 4.5rem;
+    color: #777;
+}
+
+.showcase-text .btn {
+    font-size: 2rem;
+    text-decoration: none;
+    background: #b771ee;
+    color: #fff;
+    padding: 2.2rem 5.8rem;
+    display: inline-block;
+    border-radius: 30px;
+    initial-letter: 4px;
+    transition: background 0.5s;
+}
+
+.showcase-text .btn{
+    background: #a853ea;
+}
