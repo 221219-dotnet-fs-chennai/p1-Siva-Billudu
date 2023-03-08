@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\TrProject1\Modules\bin\Debug\net6.0\Modules.deps.json
+C:\Users\HP\source\repos\TrProject1\Modules\bin\Debug\net6.0\Modules.dll
+C:\Users\HP\source\repos\TrProject1\Modules\bin\Debug\net6.0\Modules.pdb
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.AssemblyInfo.cs
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.dll
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\refint\Modules.dll
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.pdb
+C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\ref\Modules.dll

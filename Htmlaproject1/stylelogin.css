@@ -1,0 +1,10 @@
+.login{
+    position: relative;
+    box-sizing: border-box;
+    top: 230px;
+}
+
+.legend{
+    font-family: sans-serif;
+    font-size: 3rem;
+}
