@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\BusinessLogic.deps.json
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\BusinessLogic.dll
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\BusinessLogic.pdb
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.dll
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\refint\BusinessLogic.dll
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.pdb
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\ref\BusinessLogic.dll
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\DataEntities.dll
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\Models.dll
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\DataEntities.pdb
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\bin\Debug\net7.0\Models.pdb
+C:\Users\HP\source\repos\ProductManagement\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CopyComplete
