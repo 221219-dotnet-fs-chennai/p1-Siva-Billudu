@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\Modules.csproj": {}
+    "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Modules\\Modules.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\Modules.csproj": {
+    "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Modules\\Modules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\Modules.csproj",
+        "projectUniqueName": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Modules\\Modules.csproj",
         "projectName": "Modules",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\Modules.csproj",
+        "projectPath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Modules\\Modules.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Modules\\obj\\",
+        "outputPath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Modules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

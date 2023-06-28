@@ -7,8 +7,11 @@ import { Component } from '@angular/core';
   
 })
 export class AppComponent {
-  title = 'event';
+  title = 'hello world';
+
   handleClick(){
     this.title='title changed';
   }
+
+  email="";
 }

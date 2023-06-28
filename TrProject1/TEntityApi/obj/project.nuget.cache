@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/YsMP+zVSQqgcDS7UOCZr/5LXMM+pQ/Y4Wpu+g2lYOI9jQJrGRjJ6avJOqjNm0rc3R+s7pkSdBqbECMbhuxoA==",
+  "dgSpecHash": "8mCMmUTbKgZR0dU0/SsHa2l3gAI5q/13YDpvAkREDGjgFaT7pgdp4hOUc9Xzw00eqOrRmPsKngO/q7bDGsnHgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\TrProject1\\TEntityApi\\TEntityApi.csproj",
+  "projectFilePath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\TEntityApi\\TEntityApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

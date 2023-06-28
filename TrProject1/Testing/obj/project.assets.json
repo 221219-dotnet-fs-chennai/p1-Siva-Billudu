@@ -6265,11 +6265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\TrProject1\\Testing\\Testing.csproj",
+      "projectUniqueName": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Testing\\Testing.csproj",
       "projectName": "Testing",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Testing\\Testing.csproj",
+      "projectPath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Testing\\Testing.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Testing\\obj\\",
+      "outputPath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6286,8 +6286,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\TrProject1\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\TrProject1\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }
@@ -6339,7 +6339,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

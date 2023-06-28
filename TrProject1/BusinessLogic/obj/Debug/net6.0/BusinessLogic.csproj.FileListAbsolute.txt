@@ -15,3 +15,20 @@ C:\Users\HP\source\repos\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic
 C:\Users\HP\source\repos\TrProject1\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
 C:\Users\HP\source\repos\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
 C:\Users\HP\source\repos\TrProject1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\Modules.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\TEntityApi.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\Modules.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\bin\Debug\net6.0\TEntityApi.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll

@@ -10,3 +10,15 @@ C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.dll
 C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\refint\Modules.dll
 C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\Modules.pdb
 C:\Users\HP\source\repos\TrProject1\Modules\obj\Debug\net6.0\ref\Modules.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\bin\Debug\net6.0\Modules.deps.json
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\bin\Debug\net6.0\Modules.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\bin\Debug\net6.0\Modules.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.csproj.AssemblyReference.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.AssemblyInfoInputs.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.AssemblyInfo.cs
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.csproj.CoreCompileInputs.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\refint\Modules.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\Modules.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\Modules\obj\Debug\net6.0\ref\Modules.dll

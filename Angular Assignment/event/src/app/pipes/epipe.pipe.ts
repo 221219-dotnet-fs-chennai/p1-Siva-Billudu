@@ -5,8 +5,14 @@ import { Pipe, PipeTransform } from '@angular/core';
 })
 export class EpipePipe implements PipeTransform {
 
-  transform(num: number): string {
-    return 'my salary is '+num;
+  transform(value: any): any {
+    
+    if(typeof value !== 'string'){
+      return value;
+    }
+
+    return value.charAt(0).toUpperCase() + value.slice(1);
+   
 
     
   }

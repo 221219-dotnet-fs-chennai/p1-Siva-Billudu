@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WmCnt3unPPccoFsDg11whU8jYca+CZCL4T7nqx94PYGa32mVEopBsKI4kL37Bvlr9Kha3ViBO6V0/OiwmybrXw==",
+  "dgSpecHash": "aQZGVEtr9jDao1Q/z9NMVZ8XKSkD3rbxGGV7gvD9pScQv1zqTPu732DbOwXEvy62BVyXoJEeFuDVTOcyfJ0bTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Fullstack.Api\\Fullstack.Api\\Fullstack.Api.csproj",
+  "projectFilePath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\Angular Assignment\\Fullstack.Api\\Fullstack.Api\\Fullstack.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -41,6 +41,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

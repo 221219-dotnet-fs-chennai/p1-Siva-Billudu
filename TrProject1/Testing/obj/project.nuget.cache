@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bqajIBOpbdPCV3jZHskbOj2w52KHiKFjVqwOiJrGimJIhL5jGqHwBzKNnNSEdBC8D3475MDEh/SpgcKXtLR+TA==",
+  "dgSpecHash": "oV5vfuiaYv5kKo4OrOGzn4joFr6htxktR4zqaA1Vje84aPMxwCSiC4aJG24H6uwFJSuRpCC4LwFeBZlINxLCFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\TrProject1\\Testing\\Testing.csproj",
+  "projectFilePath": "C:\\Revature\\New repo\\p1-Siva-Billudu\\TrProject1\\Testing\\Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

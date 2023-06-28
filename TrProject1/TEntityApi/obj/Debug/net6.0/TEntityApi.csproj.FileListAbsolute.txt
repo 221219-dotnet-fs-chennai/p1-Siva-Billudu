@@ -15,3 +15,20 @@ C:\Users\HP\source\repos\TrProject1\TEntityApi\obj\Debug\net6.0\refint\TEntityAp
 C:\Users\HP\source\repos\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.pdb
 C:\Users\HP\source\repos\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.genruntimeconfig.cache
 C:\Users\HP\source\repos\TrProject1\TEntityApi\obj\Debug\net6.0\ref\TEntityApi.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\bin\Debug\net6.0\TEntityApi.deps.json
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\bin\Debug\net6.0\TEntityApi.runtimeconfig.json
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\bin\Debug\net6.0\TEntityApi.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\bin\Debug\net6.0\TEntityApi.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\bin\Debug\net6.0\Modules.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\bin\Debug\net6.0\Modules.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.csproj.AssemblyReference.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.AssemblyInfoInputs.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.AssemblyInfo.cs
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.csproj.CoreCompileInputs.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.csproj.CopyComplete
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\refint\TEntityApi.dll
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.pdb
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\TEntityApi.genruntimeconfig.cache
+C:\Revature\New repo\p1-Siva-Billudu\TrProject1\TEntityApi\obj\Debug\net6.0\ref\TEntityApi.dll
